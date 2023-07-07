@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url("/assets/images/bg.jpeg");
+}
+
+form{
+    box-shadow: 2px 6px 100px #ffffff;
+}
+
+.text-center {
+    color: #9eeaf9;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
