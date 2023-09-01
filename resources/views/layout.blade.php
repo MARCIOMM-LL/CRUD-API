@@ -13,7 +13,7 @@
     {{-- <link rel="stylesheet" href="{{ asset('assets/fonts/all.min.css') }}"> --}}
     {{-- <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.css') }}"> --}}
     {{-- <link rel="stylesheet" href="{{ asset('assets/css/custom.css') }}"> --}}
-    <title>My First View!</title>
+    <title>My First View FROM LINUX!</title>
 
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 
